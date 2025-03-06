@@ -1,4 +1,4 @@
-from main_model import is_rectangle,Quicksort
+from main_model import is_rectangle,Quicksort,numpy
 import array,numpy as np
 
 obj = is_rectangle(20,20)   #Triangle is rectangle
@@ -9,12 +9,7 @@ obj = Quicksort(list)
 print("\n Sorted list = ",obj)
 
 
-#2D array
-arr = np.array([[20,10,20,30,67,1],[30,20,40,59,45,67]])
-new = np.empty(5)
+list1=[10,29,34,54,32,89]
+list2=[30,10,23,34,90,29]
+obj = numpy(list1,list2)
 
-for i in range(0,len(arr[0])): 
-    for j in range(i+1,len(arr[1])):
-        if arr[0,i] == arr[1,j]:
-            print("common values in both array are : ",arr[0,i])
-            
