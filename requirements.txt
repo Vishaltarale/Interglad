@@ -1,0 +1,4 @@
+requirements : #Day 2 Training @Interglad solution pvt ltd. 
+1>    pip install python 3.12.9
+2>    Classes and objects
+3>    Models Concept
