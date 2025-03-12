@@ -1,0 +1,19 @@
+
+        Product Name: Men Court Vision Lace-Up Sneakers
+        Product Stock: Available
+        Quantity in stock: 10
+        Current Price: 5182
+        Best Promos: [{'NEW1000': 4182}, {'ALLSTARS800': 4382}, {'ALLSTARS10': 4663.8}]
+        
+        Product Name: Men COURT VISION Lace-Up Sneakers
+        Product Stock: Available
+        Quantity in stock: 10
+        Current Price: 4496
+        Best Promos: [{'NEW1000': 3595}, {'ALLSTARS800': 3775.2}, {'NEW500': 3996}]
+        
+        Product Name: Women Revolution 7 Running Shoes
+        Product Stock: Available
+        Quantity in stock: 10
+        Current Price: 2919
+        Best Promos: [{'NEW500': 2419}, {'ALLSTARS500': 2500.81}, {'NEW300': 2619}]
+        
